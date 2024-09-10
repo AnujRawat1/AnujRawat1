@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujrawat1&label=Profile%20views&color=0e75b6&style=flat" alt="anujrawat1" /> </p>
 
-- 🔭 I’m currently working on [Diabetes Prediction](https://github.com/AnujRawat1/Diabetes-Prediction-)
-
 - 🌱 I’m currently learning **Flask,**
 
 - 📫 How to reach me **rawatanuj@058gmail.com**
