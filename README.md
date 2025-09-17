@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI Based Resume Analyzer](https://github.com/AnujRawat1/Diabetes-Prediction-)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anuj-rawat.vercel.app/](https://portfolio-anuj-rawat.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-main-lilac.vercel.app/)
 
 - 📫 How to reach me **rawatanuj@058gmail.com**
 
