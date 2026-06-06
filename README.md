@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnujRawat1&theme=onedark" alt="AnujRawat1" /></a> </p>
 
-- 🔭 I’m currently working on **Resume Analyzer**
-- 🌱 I’m currently learning **Data Science**
-
 - 📫 How to reach me **https://www.linkedin.com/in/anuj-rawat1**
 - 👨‍💻 All of my projects are available at **https://portfolio-main-lilac.vercel.app/**
 
